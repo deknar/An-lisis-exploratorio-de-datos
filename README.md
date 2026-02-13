@@ -63,7 +63,8 @@ El archivo `eda_bmw.py` realiza automáticamente las siguientes acciones:
 ## Hallazgos Clave
 
 -   **Depreciación**: Existe una fuerte correlación negativa entre el kilometraje y el precio; a mayor uso, menor valor.
--   **Edad del Vehículo**: El año de fabricación es un predictor significativo del precio (R² ≈ 0.39).
+-   **Correlación Año-Precio**: Existe una correlación positiva moderada (0.62). Los autos más nuevos tienden a ser más caros y el año de fabricación es un predictor significativo (R² ≈ 0.39).
 -   **Transmisión**: Los vehículos con transmisión automática y semi-automática tienden a tener un precio promedio superior a los manuales.
 
 ---
+
