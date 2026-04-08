@@ -30,7 +30,7 @@ El proyecto está desarrollado en **Python** y utiliza las siguientes librerías
 
 1.  **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/deknar/An-lisis-exploratorio-de-datos
+    git clone https://github.com/nicolastllanos/An-lisis-exploratorio-de-datos
     cd An-lisis-exploratorio-de-datos
     ```
 
